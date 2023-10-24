@@ -1,0 +1,29 @@
+<svg width="20" height="17" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="17" fill="#F2F2F2"/>
+<g id="Home - Mobile" clip-path="url(#clip0_0_1)">
+<rect width="375" height="3784" transform="translate(-331 -56)" fill="white"/>
+<g id="Group 5" clip-path="url(#clip1_0_1)">
+<rect id="Mask" x="-331" y="-56" width="375" height="567" fill="#014E56"/>
+<mask id="mask0_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-331" y="-56" width="375" height="567">
+<rect id="Mask_2" x="-331" y="-56" width="375" height="567" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+</g>
+</g>
+<g id="Group 3">
+<g id="Group 2">
+<rect id="Rectangle" width="20" height="3" fill="white"/>
+<rect id="Rectangle Copy 6" y="7" width="20" height="3" fill="white"/>
+<rect id="Rectangle Copy 8" y="14" width="20" height="3" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="375" height="3784" fill="white" transform="translate(-331 -56)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="375" height="567" fill="white" transform="translate(-331 -56)"/>
+</clipPath>
+</defs>
+</svg>
